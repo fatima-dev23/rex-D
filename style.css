@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav .navbar-nav .nav-item .nav-link{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+    margin-right: 10px;
+}
+
+nav .navbar-collapse .btn{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+}
+
+.content{
+    padding: 70px 90px 90px 90px;
+    
+}
+
+.main-heading h2{
+    font-family: 'poppins';
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.content .sub-content p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: slategray;    
+    font-weight: lighter;
+}
+
+.content .sub-content .office-img{
+    position: absolute;
+    top: 250px;
+    right: 150px;
+}
+
+.content .buttons .btn{
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    border: 2px #bebebe solid;
+    border-radius: 10px;
+}
+
